@@ -1,1 +1,2 @@
 # check-password
+There is website called haveibeenpwned and there you can acctualy enter your email or your password to check if its have been leaked. but most of the time you should never really trust a website with your password because someone can intercept your password when it transfer to the website server. so I build secure way using pwnedpasswords api. This API work uses technique called K anonymity. We sent first five hased password to the API instead plaintext password.
